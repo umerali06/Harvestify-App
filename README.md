@@ -97,4 +97,3 @@ This project is heavily inspired from **[this GitHub repository](https://github.
 
 ## License 📝
 This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Gladiator07/Harvestify/blob/master/LICENSE).
-
